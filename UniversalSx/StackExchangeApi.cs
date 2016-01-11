@@ -30,6 +30,11 @@ namespace UniversalSx
             return await GetStackExchangeObject<StackExchangeUser>(String.Format("/users/{0}", id));
         }
 
+        public IEnumerable<StackExchangeSite> GetAvailableSites()
+        {
+            return ParseSitesLocal();
+        }
+
         public async Task<IEnumerable<StackExchangeUser>> GetAssociatedUsers(int id)
         {
             var allAccounts =  await GetStackExchangeObject<StackExchangeUser>(String.Format("/users/{0}/associated", id));
@@ -72,6 +77,17 @@ namespace UniversalSx
             var collection = JsonConvert.DeserializeObject<List<T>>(jobject["items"].ToString());
             return collection;
            
+        }
+
+        private static IEnumerable<StackExchangeSite> ParseSitesLocal()
+        {
+            var file =  Path.Combine(
+            Windows.ApplicationModel.Package.Current.InstalledLocation.Path,
+            "Assets","sites.json");
+            var ctent = File.ReadAllText(file);
+            var siteObject = JArray.Parse(ctent);
+            var collection = JsonConvert.DeserializeObject<List<StackExchangeSite>>(siteObject.ToString());
+            return collection;
         }
 
         private static string ExtractJsonResponse(WebResponse response)

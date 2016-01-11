@@ -1,0 +1,1507 @@
+﻿[
+  {
+    "site_url": "http://stackoverflow.com",
+    "api_site_parameter": "stackoverflow",
+    "name": "Stack Overflow"
+  },
+  {
+    "site_url": "http://serverfault.com",
+    "api_site_parameter": "serverfault",
+    "name": "Server Fault"
+  },
+  {
+    "site_url": "http://superuser.com",
+    "api_site_parameter": "superuser",
+    "name": "Super User"
+  },
+  {
+    "site_url": "http://meta.stackexchange.com",
+    "api_site_parameter": "meta",
+    "name": "Meta Stack Exchange"
+  },
+  {
+    "site_url": "http://webapps.stackexchange.com",
+    "api_site_parameter": "webapps",
+    "name": "Web Applications"
+  },
+  {
+    "site_url": "http://meta.webapps.stackexchange.com",
+    "api_site_parameter": "meta.webapps",
+    "name": "Web Applications Meta"
+  },
+  {
+    "site_url": "http://gaming.stackexchange.com",
+    "api_site_parameter": "gaming",
+    "name": "Arqade"
+  },
+  {
+    "site_url": "http://meta.gaming.stackexchange.com",
+    "api_site_parameter": "meta.gaming",
+    "name": "Arqade Meta"
+  },
+  {
+    "site_url": "http://webmasters.stackexchange.com",
+    "api_site_parameter": "webmasters",
+    "name": "Webmasters"
+  },
+  {
+    "site_url": "http://meta.webmasters.stackexchange.com",
+    "api_site_parameter": "meta.webmasters",
+    "name": "Webmasters Meta"
+  },
+  {
+    "site_url": "http://cooking.stackexchange.com",
+    "api_site_parameter": "cooking",
+    "name": "Seasoned Advice"
+  },
+  {
+    "site_url": "http://meta.cooking.stackexchange.com",
+    "api_site_parameter": "meta.cooking",
+    "name": "Seasoned Advice Meta"
+  },
+  {
+    "site_url": "http://gamedev.stackexchange.com",
+    "api_site_parameter": "gamedev",
+    "name": "Game Development"
+  },
+  {
+    "site_url": "http://meta.gamedev.stackexchange.com",
+    "api_site_parameter": "meta.gamedev",
+    "name": "Game Development Meta"
+  },
+  {
+    "site_url": "http://photo.stackexchange.com",
+    "api_site_parameter": "photo",
+    "name": "Photography"
+  },
+  {
+    "site_url": "http://meta.photo.stackexchange.com",
+    "api_site_parameter": "meta.photo",
+    "name": "Photography Meta"
+  },
+  {
+    "site_url": "http://stats.stackexchange.com",
+    "api_site_parameter": "stats",
+    "name": "Cross Validated"
+  },
+  {
+    "site_url": "http://meta.stats.stackexchange.com",
+    "api_site_parameter": "meta.stats",
+    "name": "Cross Validated Meta"
+  },
+  {
+    "site_url": "http://math.stackexchange.com",
+    "api_site_parameter": "math",
+    "name": "Mathematics"
+  },
+  {
+    "site_url": "http://meta.math.stackexchange.com",
+    "api_site_parameter": "meta.math",
+    "name": "Mathematics Meta"
+  },
+  {
+    "site_url": "http://diy.stackexchange.com",
+    "api_site_parameter": "diy",
+    "name": "Home Improvement"
+  },
+  {
+    "site_url": "http://meta.diy.stackexchange.com",
+    "api_site_parameter": "meta.diy",
+    "name": "Home Improvement Meta"
+  },
+  {
+    "site_url": "http://meta.superuser.com",
+    "api_site_parameter": "meta.superuser",
+    "name": "Meta Super User"
+  },
+  {
+    "site_url": "http://meta.serverfault.com",
+    "api_site_parameter": "meta.serverfault",
+    "name": "Meta Server Fault"
+  },
+  {
+    "site_url": "http://gis.stackexchange.com",
+    "api_site_parameter": "gis",
+    "name": "Geographic Information Systems"
+  },
+  {
+    "site_url": "http://meta.gis.stackexchange.com",
+    "api_site_parameter": "meta.gis",
+    "name": "Geographic Information Systems Meta"
+  },
+  {
+    "site_url": "http://tex.stackexchange.com",
+    "api_site_parameter": "tex",
+    "name": "TeX - LaTeX"
+  },
+  {
+    "site_url": "http://meta.tex.stackexchange.com",
+    "api_site_parameter": "meta.tex",
+    "name": "TeX - LaTeX Meta"
+  },
+  {
+    "site_url": "http://askubuntu.com",
+    "api_site_parameter": "askubuntu",
+    "name": "Ask Ubuntu"
+  },
+  {
+    "site_url": "http://meta.askubuntu.com",
+    "api_site_parameter": "meta.askubuntu",
+    "name": "Ask Ubuntu Meta"
+  },
+  {
+    "site_url": "http://money.stackexchange.com",
+    "api_site_parameter": "money",
+    "name": "Personal Finance &amp; Money"
+  },
+  {
+    "site_url": "http://meta.money.stackexchange.com",
+    "api_site_parameter": "meta.money",
+    "name": "Personal Finance &amp; Money Meta"
+  },
+  {
+    "site_url": "http://english.stackexchange.com",
+    "api_site_parameter": "english",
+    "name": "English Language &amp; Usage"
+  },
+  {
+    "site_url": "http://meta.english.stackexchange.com",
+    "api_site_parameter": "meta.english",
+    "name": "English Language &amp; Usage Meta"
+  },
+  {
+    "site_url": "http://stackapps.com",
+    "api_site_parameter": "stackapps",
+    "name": "Stack Apps"
+  },
+  {
+    "site_url": "http://ux.stackexchange.com",
+    "api_site_parameter": "ux",
+    "name": "User Experience"
+  },
+  {
+    "site_url": "http://meta.ux.stackexchange.com",
+    "api_site_parameter": "meta.ux",
+    "name": "User Experience Meta"
+  },
+  {
+    "site_url": "http://unix.stackexchange.com",
+    "api_site_parameter": "unix",
+    "name": "Unix &amp; Linux"
+  },
+  {
+    "site_url": "http://meta.unix.stackexchange.com",
+    "api_site_parameter": "meta.unix",
+    "name": "Unix &amp; Linux Meta"
+  },
+  {
+    "site_url": "http://wordpress.stackexchange.com",
+    "api_site_parameter": "wordpress",
+    "name": "WordPress Development"
+  },
+  {
+    "site_url": "http://meta.wordpress.stackexchange.com",
+    "api_site_parameter": "meta.wordpress",
+    "name": "WordPress Development Meta"
+  },
+  {
+    "site_url": "http://cstheory.stackexchange.com",
+    "api_site_parameter": "cstheory",
+    "name": "Theoretical Computer Science"
+  },
+  {
+    "site_url": "http://meta.cstheory.stackexchange.com",
+    "api_site_parameter": "meta.cstheory",
+    "name": "Theoretical Computer Science Meta"
+  },
+  {
+    "site_url": "http://apple.stackexchange.com",
+    "api_site_parameter": "apple",
+    "name": "Ask Different"
+  },
+  {
+    "site_url": "http://meta.apple.stackexchange.com",
+    "api_site_parameter": "meta.apple",
+    "name": "Ask Different Meta"
+  },
+  {
+    "site_url": "http://rpg.stackexchange.com",
+    "api_site_parameter": "rpg",
+    "name": "Role-playing Games"
+  },
+  {
+    "site_url": "http://meta.rpg.stackexchange.com",
+    "api_site_parameter": "meta.rpg",
+    "name": "Role-playing Games Meta"
+  },
+  {
+    "site_url": "http://bicycles.stackexchange.com",
+    "api_site_parameter": "bicycles",
+    "name": "Bicycles"
+  },
+  {
+    "site_url": "http://meta.bicycles.stackexchange.com",
+    "api_site_parameter": "meta.bicycles",
+    "name": "Bicycles Meta"
+  },
+  {
+    "site_url": "http://programmers.stackexchange.com",
+    "api_site_parameter": "programmers",
+    "name": "Programmers"
+  },
+  {
+    "site_url": "http://meta.programmers.stackexchange.com",
+    "api_site_parameter": "meta.programmers",
+    "name": "Programmers Meta"
+  },
+  {
+    "site_url": "http://electronics.stackexchange.com",
+    "api_site_parameter": "electronics",
+    "name": "Electrical Engineering"
+  },
+  {
+    "site_url": "http://meta.electronics.stackexchange.com",
+    "api_site_parameter": "meta.electronics",
+    "name": "Electrical Engineering Meta"
+  },
+  {
+    "site_url": "http://android.stackexchange.com",
+    "api_site_parameter": "android",
+    "name": "Android Enthusiasts"
+  },
+  {
+    "site_url": "http://meta.android.stackexchange.com",
+    "api_site_parameter": "meta.android",
+    "name": "Android Enthusiasts Meta"
+  },
+  {
+    "site_url": "http://boardgames.stackexchange.com",
+    "api_site_parameter": "boardgames",
+    "name": "Board &amp; Card Games"
+  },
+  {
+    "site_url": "http://meta.boardgames.stackexchange.com",
+    "api_site_parameter": "meta.boardgames",
+    "name": "Board &amp; Card Games Meta"
+  },
+  {
+    "site_url": "http://physics.stackexchange.com",
+    "api_site_parameter": "physics",
+    "name": "Physics"
+  },
+  {
+    "site_url": "http://meta.physics.stackexchange.com",
+    "api_site_parameter": "meta.physics",
+    "name": "Physics Meta"
+  },
+  {
+    "site_url": "http://homebrew.stackexchange.com",
+    "api_site_parameter": "homebrew",
+    "name": "Homebrewing"
+  },
+  {
+    "site_url": "http://meta.homebrew.stackexchange.com",
+    "api_site_parameter": "meta.homebrew",
+    "name": "Homebrewing Meta"
+  },
+  {
+    "site_url": "http://security.stackexchange.com",
+    "api_site_parameter": "security",
+    "name": "Information Security"
+  },
+  {
+    "site_url": "http://meta.security.stackexchange.com",
+    "api_site_parameter": "meta.security",
+    "name": "Information Security Meta"
+  },
+  {
+    "site_url": "http://writers.stackexchange.com",
+    "api_site_parameter": "writers",
+    "name": "Writers"
+  },
+  {
+    "site_url": "http://meta.writers.stackexchange.com",
+    "api_site_parameter": "meta.writers",
+    "name": "Writers Meta"
+  },
+  {
+    "site_url": "http://video.stackexchange.com",
+    "api_site_parameter": "video",
+    "name": "Video Production"
+  },
+  {
+    "site_url": "http://meta.video.stackexchange.com",
+    "api_site_parameter": "meta.video",
+    "name": "Video Production Meta"
+  },
+  {
+    "site_url": "http://graphicdesign.stackexchange.com",
+    "api_site_parameter": "graphicdesign",
+    "name": "Graphic Design"
+  },
+  {
+    "site_url": "http://meta.graphicdesign.stackexchange.com",
+    "api_site_parameter": "meta.graphicdesign",
+    "name": "Graphic Design Meta"
+  },
+  {
+    "site_url": "http://dba.stackexchange.com",
+    "api_site_parameter": "dba",
+    "name": "Database Administrators"
+  },
+  {
+    "site_url": "http://meta.dba.stackexchange.com",
+    "api_site_parameter": "meta.dba",
+    "name": "Database Administrators Meta"
+  },
+  {
+    "site_url": "http://scifi.stackexchange.com",
+    "api_site_parameter": "scifi",
+    "name": "Science Fiction &amp; Fantasy"
+  },
+  {
+    "site_url": "http://meta.scifi.stackexchange.com",
+    "api_site_parameter": "meta.scifi",
+    "name": "Science Fiction &amp; Fantasy Meta"
+  },
+  {
+    "site_url": "http://codereview.stackexchange.com",
+    "api_site_parameter": "codereview",
+    "name": "Code Review"
+  },
+  {
+    "site_url": "http://meta.codereview.stackexchange.com",
+    "api_site_parameter": "meta.codereview",
+    "name": "Code Review Meta"
+  },
+  {
+    "site_url": "http://codegolf.stackexchange.com",
+    "api_site_parameter": "codegolf",
+    "name": "Programming Puzzles &amp; Code Golf"
+  },
+  {
+    "site_url": "http://meta.codegolf.stackexchange.com",
+    "api_site_parameter": "meta.codegolf",
+    "name": "Programming Puzzles &amp; Code Golf Meta"
+  },
+  {
+    "site_url": "http://quant.stackexchange.com",
+    "api_site_parameter": "quant",
+    "name": "Quantitative Finance"
+  },
+  {
+    "site_url": "http://meta.quant.stackexchange.com",
+    "api_site_parameter": "meta.quant",
+    "name": "Quantitative Finance Meta"
+  },
+  {
+    "site_url": "http://pm.stackexchange.com",
+    "api_site_parameter": "pm",
+    "name": "Project Management"
+  },
+  {
+    "site_url": "http://meta.pm.stackexchange.com",
+    "api_site_parameter": "meta.pm",
+    "name": "Project Management Meta"
+  },
+  {
+    "site_url": "http://skeptics.stackexchange.com",
+    "api_site_parameter": "skeptics",
+    "name": "Skeptics"
+  },
+  {
+    "site_url": "http://meta.skeptics.stackexchange.com",
+    "api_site_parameter": "meta.skeptics",
+    "name": "Skeptics Meta"
+  },
+  {
+    "site_url": "http://fitness.stackexchange.com",
+    "api_site_parameter": "fitness",
+    "name": "Physical Fitness"
+  },
+  {
+    "site_url": "http://meta.fitness.stackexchange.com",
+    "api_site_parameter": "meta.fitness",
+    "name": "Physical Fitness Meta"
+  },
+  {
+    "site_url": "http://drupal.stackexchange.com",
+    "api_site_parameter": "drupal",
+    "name": "Drupal Answers"
+  },
+  {
+    "site_url": "http://meta.drupal.stackexchange.com",
+    "api_site_parameter": "meta.drupal",
+    "name": "Drupal Answers Meta"
+  },
+  {
+    "site_url": "http://mechanics.stackexchange.com",
+    "api_site_parameter": "mechanics",
+    "name": "Motor Vehicle Maintenance &amp; Repair"
+  },
+  {
+    "site_url": "http://meta.mechanics.stackexchange.com",
+    "api_site_parameter": "meta.mechanics",
+    "name": "Motor Vehicle Maintenance &amp; Repair Meta"
+  },
+  {
+    "site_url": "http://parenting.stackexchange.com",
+    "api_site_parameter": "parenting",
+    "name": "Parenting"
+  },
+  {
+    "site_url": "http://meta.parenting.stackexchange.com",
+    "api_site_parameter": "meta.parenting",
+    "name": "Parenting Meta"
+  },
+  {
+    "site_url": "http://sharepoint.stackexchange.com",
+    "api_site_parameter": "sharepoint",
+    "name": "SharePoint"
+  },
+  {
+    "site_url": "http://meta.sharepoint.stackexchange.com",
+    "api_site_parameter": "meta.sharepoint",
+    "name": "SharePoint Meta"
+  },
+  {
+    "site_url": "http://music.stackexchange.com",
+    "api_site_parameter": "music",
+    "name": "Music: Practice &amp; Theory"
+  },
+  {
+    "site_url": "http://meta.music.stackexchange.com",
+    "api_site_parameter": "meta.music",
+    "name": "Music: Practice &amp; Theory Meta"
+  },
+  {
+    "site_url": "http://sqa.stackexchange.com",
+    "api_site_parameter": "sqa",
+    "name": "Software Quality Assurance &amp; Testing"
+  },
+  {
+    "site_url": "http://meta.sqa.stackexchange.com",
+    "api_site_parameter": "meta.sqa",
+    "name": "Software Quality Assurance &amp; Testing Meta"
+  },
+  {
+    "site_url": "http://judaism.stackexchange.com",
+    "api_site_parameter": "judaism",
+    "name": "Mi Yodeya"
+  },
+  {
+    "site_url": "http://meta.judaism.stackexchange.com",
+    "api_site_parameter": "meta.judaism",
+    "name": "Mi Yodeya Meta"
+  },
+  {
+    "site_url": "http://german.stackexchange.com",
+    "api_site_parameter": "german",
+    "name": "German Language"
+  },
+  {
+    "site_url": "http://meta.german.stackexchange.com",
+    "api_site_parameter": "meta.german",
+    "name": "German Language Meta"
+  },
+  {
+    "site_url": "http://japanese.stackexchange.com",
+    "api_site_parameter": "japanese",
+    "name": "Japanese Language"
+  },
+  {
+    "site_url": "http://meta.japanese.stackexchange.com",
+    "api_site_parameter": "meta.japanese",
+    "name": "Japanese Language Meta"
+  },
+  {
+    "site_url": "http://philosophy.stackexchange.com",
+    "api_site_parameter": "philosophy",
+    "name": "Philosophy"
+  },
+  {
+    "site_url": "http://meta.philosophy.stackexchange.com",
+    "api_site_parameter": "meta.philosophy",
+    "name": "Philosophy Meta"
+  },
+  {
+    "site_url": "http://gardening.stackexchange.com",
+    "api_site_parameter": "gardening",
+    "name": "Gardening &amp; Landscaping"
+  },
+  {
+    "site_url": "http://meta.gardening.stackexchange.com",
+    "api_site_parameter": "meta.gardening",
+    "name": "Gardening &amp; Landscaping Meta"
+  },
+  {
+    "site_url": "http://travel.stackexchange.com",
+    "api_site_parameter": "travel",
+    "name": "Travel"
+  },
+  {
+    "site_url": "http://meta.travel.stackexchange.com",
+    "api_site_parameter": "meta.travel",
+    "name": "Travel Meta"
+  },
+  {
+    "site_url": "http://productivity.stackexchange.com",
+    "api_site_parameter": "productivity",
+    "name": "Personal Productivity"
+  },
+  {
+    "site_url": "http://meta.productivity.stackexchange.com",
+    "api_site_parameter": "meta.productivity",
+    "name": "Personal Productivity Meta"
+  },
+  {
+    "site_url": "http://crypto.stackexchange.com",
+    "api_site_parameter": "crypto",
+    "name": "Cryptography"
+  },
+  {
+    "site_url": "http://meta.crypto.stackexchange.com",
+    "api_site_parameter": "meta.crypto",
+    "name": "Cryptography Meta"
+  },
+  {
+    "site_url": "http://dsp.stackexchange.com",
+    "api_site_parameter": "dsp",
+    "name": "Signal Processing"
+  },
+  {
+    "site_url": "http://meta.dsp.stackexchange.com",
+    "api_site_parameter": "meta.dsp",
+    "name": "Signal Processing Meta"
+  },
+  {
+    "site_url": "http://french.stackexchange.com",
+    "api_site_parameter": "french",
+    "name": "French Language"
+  },
+  {
+    "site_url": "http://meta.french.stackexchange.com",
+    "api_site_parameter": "meta.french",
+    "name": "French Language Meta"
+  },
+  {
+    "site_url": "http://christianity.stackexchange.com",
+    "api_site_parameter": "christianity",
+    "name": "Christianity"
+  },
+  {
+    "site_url": "http://meta.christianity.stackexchange.com",
+    "api_site_parameter": "meta.christianity",
+    "name": "Christianity Meta"
+  },
+  {
+    "site_url": "http://bitcoin.stackexchange.com",
+    "api_site_parameter": "bitcoin",
+    "name": "Bitcoin"
+  },
+  {
+    "site_url": "http://meta.bitcoin.stackexchange.com",
+    "api_site_parameter": "meta.bitcoin",
+    "name": "Bitcoin Meta"
+  },
+  {
+    "site_url": "http://linguistics.stackexchange.com",
+    "api_site_parameter": "linguistics",
+    "name": "Linguistics"
+  },
+  {
+    "site_url": "http://meta.linguistics.stackexchange.com",
+    "api_site_parameter": "meta.linguistics",
+    "name": "Linguistics Meta"
+  },
+  {
+    "site_url": "http://hermeneutics.stackexchange.com",
+    "api_site_parameter": "hermeneutics",
+    "name": "Biblical Hermeneutics"
+  },
+  {
+    "site_url": "http://meta.hermeneutics.stackexchange.com",
+    "api_site_parameter": "meta.hermeneutics",
+    "name": "Biblical Hermeneutics Meta"
+  },
+  {
+    "site_url": "http://history.stackexchange.com",
+    "api_site_parameter": "history",
+    "name": "History"
+  },
+  {
+    "site_url": "http://meta.history.stackexchange.com",
+    "api_site_parameter": "meta.history",
+    "name": "History Meta"
+  },
+  {
+    "site_url": "http://bricks.stackexchange.com",
+    "api_site_parameter": "bricks",
+    "name": "LEGO&#174; Answers"
+  },
+  {
+    "site_url": "http://meta.bricks.stackexchange.com",
+    "api_site_parameter": "meta.bricks",
+    "name": "LEGO&#174; Answers Meta"
+  },
+  {
+    "site_url": "http://spanish.stackexchange.com",
+    "api_site_parameter": "spanish",
+    "name": "Spanish Language"
+  },
+  {
+    "site_url": "http://meta.spanish.stackexchange.com",
+    "api_site_parameter": "meta.spanish",
+    "name": "Spanish Language Meta"
+  },
+  {
+    "site_url": "http://scicomp.stackexchange.com",
+    "api_site_parameter": "scicomp",
+    "name": "Computational Science"
+  },
+  {
+    "site_url": "http://meta.scicomp.stackexchange.com",
+    "api_site_parameter": "meta.scicomp",
+    "name": "Computational Science Meta"
+  },
+  {
+    "site_url": "http://movies.stackexchange.com",
+    "api_site_parameter": "movies",
+    "name": "Movies &amp; TV"
+  },
+  {
+    "site_url": "http://meta.movies.stackexchange.com",
+    "api_site_parameter": "meta.movies",
+    "name": "Movies &amp; TV Meta"
+  },
+  {
+    "site_url": "http://chinese.stackexchange.com",
+    "api_site_parameter": "chinese",
+    "name": "Chinese Language"
+  },
+  {
+    "site_url": "http://meta.chinese.stackexchange.com",
+    "api_site_parameter": "meta.chinese",
+    "name": "Chinese Language Meta"
+  },
+  {
+    "site_url": "http://biology.stackexchange.com",
+    "api_site_parameter": "biology",
+    "name": "Biology"
+  },
+  {
+    "site_url": "http://meta.biology.stackexchange.com",
+    "api_site_parameter": "meta.biology",
+    "name": "Biology Meta"
+  },
+  {
+    "site_url": "http://poker.stackexchange.com",
+    "api_site_parameter": "poker",
+    "name": "Poker"
+  },
+  {
+    "site_url": "http://meta.poker.stackexchange.com",
+    "api_site_parameter": "meta.poker",
+    "name": "Poker Meta"
+  },
+  {
+    "site_url": "http://mathematica.stackexchange.com",
+    "api_site_parameter": "mathematica",
+    "name": "Mathematica"
+  },
+  {
+    "site_url": "http://meta.mathematica.stackexchange.com",
+    "api_site_parameter": "meta.mathematica",
+    "name": "Mathematica Meta"
+  },
+  {
+    "site_url": "http://cogsci.stackexchange.com",
+    "api_site_parameter": "cogsci",
+    "name": "Cognitive Sciences"
+  },
+  {
+    "site_url": "http://meta.cogsci.stackexchange.com",
+    "api_site_parameter": "meta.cogsci",
+    "name": "Cognitive Sciences Meta"
+  },
+  {
+    "site_url": "http://outdoors.stackexchange.com",
+    "api_site_parameter": "outdoors",
+    "name": "The Great Outdoors"
+  },
+  {
+    "site_url": "http://meta.outdoors.stackexchange.com",
+    "api_site_parameter": "meta.outdoors",
+    "name": "The Great Outdoors Meta"
+  },
+  {
+    "site_url": "http://martialarts.stackexchange.com",
+    "api_site_parameter": "martialarts",
+    "name": "Martial Arts"
+  },
+  {
+    "site_url": "http://meta.martialarts.stackexchange.com",
+    "api_site_parameter": "meta.martialarts",
+    "name": "Martial Arts Meta"
+  },
+  {
+    "site_url": "http://sports.stackexchange.com",
+    "api_site_parameter": "sports",
+    "name": "Sports"
+  },
+  {
+    "site_url": "http://meta.sports.stackexchange.com",
+    "api_site_parameter": "meta.sports",
+    "name": "Sports Meta"
+  },
+  {
+    "site_url": "http://academia.stackexchange.com",
+    "api_site_parameter": "academia",
+    "name": "Academia"
+  },
+  {
+    "site_url": "http://meta.academia.stackexchange.com",
+    "api_site_parameter": "meta.academia",
+    "name": "Academia Meta"
+  },
+  {
+    "site_url": "http://cs.stackexchange.com",
+    "api_site_parameter": "cs",
+    "name": "Computer Science"
+  },
+  {
+    "site_url": "http://meta.cs.stackexchange.com",
+    "api_site_parameter": "meta.cs",
+    "name": "Computer Science Meta"
+  },
+  {
+    "site_url": "http://workplace.stackexchange.com",
+    "api_site_parameter": "workplace",
+    "name": "The Workplace"
+  },
+  {
+    "site_url": "http://meta.workplace.stackexchange.com",
+    "api_site_parameter": "meta.workplace",
+    "name": "The Workplace Meta"
+  },
+  {
+    "site_url": "http://windowsphone.stackexchange.com",
+    "api_site_parameter": "windowsphone",
+    "name": "Windows Phone"
+  },
+  {
+    "site_url": "http://meta.windowsphone.stackexchange.com",
+    "api_site_parameter": "meta.windowsphone",
+    "name": "Windows Phone Meta"
+  },
+  {
+    "site_url": "http://chemistry.stackexchange.com",
+    "api_site_parameter": "chemistry",
+    "name": "Chemistry"
+  },
+  {
+    "site_url": "http://meta.chemistry.stackexchange.com",
+    "api_site_parameter": "meta.chemistry",
+    "name": "Chemistry Meta"
+  },
+  {
+    "site_url": "http://chess.stackexchange.com",
+    "api_site_parameter": "chess",
+    "name": "Chess"
+  },
+  {
+    "site_url": "http://meta.chess.stackexchange.com",
+    "api_site_parameter": "meta.chess",
+    "name": "Chess Meta"
+  },
+  {
+    "site_url": "http://raspberrypi.stackexchange.com",
+    "api_site_parameter": "raspberrypi",
+    "name": "Raspberry Pi"
+  },
+  {
+    "site_url": "http://meta.raspberrypi.stackexchange.com",
+    "api_site_parameter": "meta.raspberrypi",
+    "name": "Raspberry Pi Meta"
+  },
+  {
+    "site_url": "http://russian.stackexchange.com",
+    "api_site_parameter": "russian",
+    "name": "Russian Language"
+  },
+  {
+    "site_url": "http://meta.russian.stackexchange.com",
+    "api_site_parameter": "meta.russian",
+    "name": "Russian Language Meta"
+  },
+  {
+    "site_url": "http://islam.stackexchange.com",
+    "api_site_parameter": "islam",
+    "name": "Islam"
+  },
+  {
+    "site_url": "http://meta.islam.stackexchange.com",
+    "api_site_parameter": "meta.islam",
+    "name": "Islam Meta"
+  },
+  {
+    "site_url": "http://salesforce.stackexchange.com",
+    "api_site_parameter": "salesforce",
+    "name": "Salesforce"
+  },
+  {
+    "site_url": "http://meta.salesforce.stackexchange.com",
+    "api_site_parameter": "meta.salesforce",
+    "name": "Salesforce Meta"
+  },
+  {
+    "site_url": "http://patents.stackexchange.com",
+    "api_site_parameter": "patents",
+    "name": "Ask Patents"
+  },
+  {
+    "site_url": "http://meta.patents.stackexchange.com",
+    "api_site_parameter": "meta.patents",
+    "name": "Ask Patents Meta"
+  },
+  {
+    "site_url": "http://genealogy.stackexchange.com",
+    "api_site_parameter": "genealogy",
+    "name": "Genealogy &amp; Family History"
+  },
+  {
+    "site_url": "http://meta.genealogy.stackexchange.com",
+    "api_site_parameter": "meta.genealogy",
+    "name": "Genealogy &amp; Family History Meta"
+  },
+  {
+    "site_url": "http://robotics.stackexchange.com",
+    "api_site_parameter": "robotics",
+    "name": "Robotics"
+  },
+  {
+    "site_url": "http://meta.robotics.stackexchange.com",
+    "api_site_parameter": "meta.robotics",
+    "name": "Robotics Meta"
+  },
+  {
+    "site_url": "http://expressionengine.stackexchange.com",
+    "api_site_parameter": "expressionengine",
+    "name": "ExpressionEngine&#174; Answers"
+  },
+  {
+    "site_url": "http://meta.expressionengine.stackexchange.com",
+    "api_site_parameter": "meta.expressionengine",
+    "name": "ExpressionEngine&#174; Answers Meta"
+  },
+  {
+    "site_url": "http://politics.stackexchange.com",
+    "api_site_parameter": "politics",
+    "name": "Politics"
+  },
+  {
+    "site_url": "http://meta.politics.stackexchange.com",
+    "api_site_parameter": "meta.politics",
+    "name": "Politics Meta"
+  },
+  {
+    "site_url": "http://anime.stackexchange.com",
+    "api_site_parameter": "anime",
+    "name": "Anime &amp; Manga"
+  },
+  {
+    "site_url": "http://meta.anime.stackexchange.com",
+    "api_site_parameter": "meta.anime",
+    "name": "Anime &amp; Manga Meta"
+  },
+  {
+    "site_url": "http://magento.stackexchange.com",
+    "api_site_parameter": "magento",
+    "name": "Magento"
+  },
+  {
+    "site_url": "http://meta.magento.stackexchange.com",
+    "api_site_parameter": "meta.magento",
+    "name": "Magento Meta"
+  },
+  {
+    "site_url": "http://ell.stackexchange.com",
+    "api_site_parameter": "ell",
+    "name": "English Language Learners"
+  },
+  {
+    "site_url": "http://meta.ell.stackexchange.com",
+    "api_site_parameter": "meta.ell",
+    "name": "English Language Learners Meta"
+  },
+  {
+    "site_url": "http://sustainability.stackexchange.com",
+    "api_site_parameter": "sustainability",
+    "name": "Sustainable Living"
+  },
+  {
+    "site_url": "http://meta.sustainability.stackexchange.com",
+    "api_site_parameter": "meta.sustainability",
+    "name": "Sustainable Living Meta"
+  },
+  {
+    "site_url": "http://tridion.stackexchange.com",
+    "api_site_parameter": "tridion",
+    "name": "Tridion"
+  },
+  {
+    "site_url": "http://meta.tridion.stackexchange.com",
+    "api_site_parameter": "meta.tridion",
+    "name": "Tridion Meta"
+  },
+  {
+    "site_url": "http://reverseengineering.stackexchange.com",
+    "api_site_parameter": "reverseengineering",
+    "name": "Reverse Engineering"
+  },
+  {
+    "site_url": "http://meta.reverseengineering.stackexchange.com",
+    "api_site_parameter": "meta.reverseengineering",
+    "name": "Reverse Engineering Meta"
+  },
+  {
+    "site_url": "http://networkengineering.stackexchange.com",
+    "api_site_parameter": "networkengineering",
+    "name": "Network Engineering"
+  },
+  {
+    "site_url": "http://meta.networkengineering.stackexchange.com",
+    "api_site_parameter": "meta.networkengineering",
+    "name": "Network Engineering Meta"
+  },
+  {
+    "site_url": "http://opendata.stackexchange.com",
+    "api_site_parameter": "opendata",
+    "name": "Open Data"
+  },
+  {
+    "site_url": "http://meta.opendata.stackexchange.com",
+    "api_site_parameter": "meta.opendata",
+    "name": "Open Data Meta"
+  },
+  {
+    "site_url": "http://freelancing.stackexchange.com",
+    "api_site_parameter": "freelancing",
+    "name": "Freelancing"
+  },
+  {
+    "site_url": "http://meta.freelancing.stackexchange.com",
+    "api_site_parameter": "meta.freelancing",
+    "name": "Freelancing Meta"
+  },
+  {
+    "site_url": "http://blender.stackexchange.com",
+    "api_site_parameter": "blender",
+    "name": "Blender"
+  },
+  {
+    "site_url": "http://meta.blender.stackexchange.com",
+    "api_site_parameter": "meta.blender",
+    "name": "Blender Meta"
+  },
+  {
+    "site_url": "http://mathoverflow.net",
+    "api_site_parameter": "mathoverflow.net",
+    "name": "MathOverflow"
+  },
+  {
+    "site_url": "http://meta.mathoverflow.net",
+    "api_site_parameter": "meta.mathoverflow.net",
+    "name": "MathOverflow Meta"
+  },
+  {
+    "site_url": "http://space.stackexchange.com",
+    "api_site_parameter": "space",
+    "name": "Space Exploration"
+  },
+  {
+    "site_url": "http://meta.space.stackexchange.com",
+    "api_site_parameter": "meta.space",
+    "name": "Space Exploration Meta"
+  },
+  {
+    "site_url": "http://sound.stackexchange.com",
+    "api_site_parameter": "sound",
+    "name": "Sound Design"
+  },
+  {
+    "site_url": "http://meta.sound.stackexchange.com",
+    "api_site_parameter": "meta.sound",
+    "name": "Sound Design Meta"
+  },
+  {
+    "site_url": "http://astronomy.stackexchange.com",
+    "api_site_parameter": "astronomy",
+    "name": "Astronomy"
+  },
+  {
+    "site_url": "http://meta.astronomy.stackexchange.com",
+    "api_site_parameter": "meta.astronomy",
+    "name": "Astronomy Meta"
+  },
+  {
+    "site_url": "http://tor.stackexchange.com",
+    "api_site_parameter": "tor",
+    "name": "Tor"
+  },
+  {
+    "site_url": "http://meta.tor.stackexchange.com",
+    "api_site_parameter": "meta.tor",
+    "name": "Tor Meta"
+  },
+  {
+    "site_url": "http://pets.stackexchange.com",
+    "api_site_parameter": "pets",
+    "name": "Pets"
+  },
+  {
+    "site_url": "http://meta.pets.stackexchange.com",
+    "api_site_parameter": "meta.pets",
+    "name": "Pets Meta"
+  },
+  {
+    "site_url": "http://ham.stackexchange.com",
+    "api_site_parameter": "ham",
+    "name": "Amateur Radio"
+  },
+  {
+    "site_url": "http://meta.ham.stackexchange.com",
+    "api_site_parameter": "meta.ham",
+    "name": "Amateur Radio Meta"
+  },
+  {
+    "site_url": "http://italian.stackexchange.com",
+    "api_site_parameter": "italian",
+    "name": "Italian Language"
+  },
+  {
+    "site_url": "http://meta.italian.stackexchange.com",
+    "api_site_parameter": "meta.italian",
+    "name": "Italian Language Meta"
+  },
+  {
+    "site_url": "http://pt.stackoverflow.com",
+    "api_site_parameter": "pt.stackoverflow",
+    "name": "Stack Overflow em Portugu&#234;s"
+  },
+  {
+    "site_url": "http://meta.pt.stackoverflow.com",
+    "api_site_parameter": "meta.pt.stackoverflow",
+    "name": "Stack Overflow em Portugu&#234;s Meta"
+  },
+  {
+    "site_url": "http://aviation.stackexchange.com",
+    "api_site_parameter": "aviation",
+    "name": "Aviation"
+  },
+  {
+    "site_url": "http://meta.aviation.stackexchange.com",
+    "api_site_parameter": "meta.aviation",
+    "name": "Aviation Meta"
+  },
+  {
+    "site_url": "http://ebooks.stackexchange.com",
+    "api_site_parameter": "ebooks",
+    "name": "Ebooks"
+  },
+  {
+    "site_url": "http://meta.ebooks.stackexchange.com",
+    "api_site_parameter": "meta.ebooks",
+    "name": "Ebooks Meta"
+  },
+  {
+    "site_url": "http://beer.stackexchange.com",
+    "api_site_parameter": "beer",
+    "name": "Beer"
+  },
+  {
+    "site_url": "http://meta.beer.stackexchange.com",
+    "api_site_parameter": "meta.beer",
+    "name": "Beer Meta"
+  },
+  {
+    "site_url": "http://softwarerecs.stackexchange.com",
+    "api_site_parameter": "softwarerecs",
+    "name": "Software Recommendations"
+  },
+  {
+    "site_url": "http://meta.softwarerecs.stackexchange.com",
+    "api_site_parameter": "meta.softwarerecs",
+    "name": "Software Recommendations Meta"
+  },
+  {
+    "site_url": "http://arduino.stackexchange.com",
+    "api_site_parameter": "arduino",
+    "name": "Arduino"
+  },
+  {
+    "site_url": "http://meta.arduino.stackexchange.com",
+    "api_site_parameter": "meta.arduino",
+    "name": "Arduino Meta"
+  },
+  {
+    "site_url": "http://cs50.stackexchange.com",
+    "api_site_parameter": "cs50",
+    "name": "CS50"
+  },
+  {
+    "site_url": "http://meta.cs50.stackexchange.com",
+    "api_site_parameter": "meta.cs50",
+    "name": "CS50 Meta"
+  },
+  {
+    "site_url": "http://expatriates.stackexchange.com",
+    "api_site_parameter": "expatriates",
+    "name": "Expatriates"
+  },
+  {
+    "site_url": "http://meta.expatriates.stackexchange.com",
+    "api_site_parameter": "meta.expatriates",
+    "name": "Expatriates Meta"
+  },
+  {
+    "site_url": "http://matheducators.stackexchange.com",
+    "api_site_parameter": "matheducators",
+    "name": "Mathematics Educators"
+  },
+  {
+    "site_url": "http://meta.matheducators.stackexchange.com",
+    "api_site_parameter": "meta.matheducators",
+    "name": "Mathematics Educators Meta"
+  },
+  {
+    "site_url": "http://meta.stackoverflow.com",
+    "api_site_parameter": "meta.stackoverflow",
+    "name": "Meta Stack Overflow"
+  },
+  {
+    "site_url": "http://earthscience.stackexchange.com",
+    "api_site_parameter": "earthscience",
+    "name": "Earth Science"
+  },
+  {
+    "site_url": "http://meta.earthscience.stackexchange.com",
+    "api_site_parameter": "meta.earthscience",
+    "name": "Earth Science Meta"
+  },
+  {
+    "site_url": "http://joomla.stackexchange.com",
+    "api_site_parameter": "joomla",
+    "name": "Joomla"
+  },
+  {
+    "site_url": "http://meta.joomla.stackexchange.com",
+    "api_site_parameter": "meta.joomla",
+    "name": "Joomla Meta"
+  },
+  {
+    "site_url": "http://datascience.stackexchange.com",
+    "api_site_parameter": "datascience",
+    "name": "Data Science"
+  },
+  {
+    "site_url": "http://meta.datascience.stackexchange.com",
+    "api_site_parameter": "meta.datascience",
+    "name": "Data Science Meta"
+  },
+  {
+    "site_url": "http://puzzling.stackexchange.com",
+    "api_site_parameter": "puzzling",
+    "name": "Puzzling"
+  },
+  {
+    "site_url": "http://meta.puzzling.stackexchange.com",
+    "api_site_parameter": "meta.puzzling",
+    "name": "Puzzling Meta"
+  },
+  {
+    "site_url": "http://craftcms.stackexchange.com",
+    "api_site_parameter": "craftcms",
+    "name": "Craft CMS"
+  },
+  {
+    "site_url": "http://meta.craftcms.stackexchange.com",
+    "api_site_parameter": "meta.craftcms",
+    "name": "Craft CMS Meta"
+  },
+  {
+    "site_url": "http://buddhism.stackexchange.com",
+    "api_site_parameter": "buddhism",
+    "name": "Buddhism"
+  },
+  {
+    "site_url": "http://meta.buddhism.stackexchange.com",
+    "api_site_parameter": "meta.buddhism",
+    "name": "Buddhism Meta"
+  },
+  {
+    "site_url": "http://hinduism.stackexchange.com",
+    "api_site_parameter": "hinduism",
+    "name": "Hinduism"
+  },
+  {
+    "site_url": "http://meta.hinduism.stackexchange.com",
+    "api_site_parameter": "meta.hinduism",
+    "name": "Hinduism Meta"
+  },
+  {
+    "site_url": "http://communitybuilding.stackexchange.com",
+    "api_site_parameter": "communitybuilding",
+    "name": "Community Building"
+  },
+  {
+    "site_url": "http://meta.communitybuilding.stackexchange.com",
+    "api_site_parameter": "meta.communitybuilding",
+    "name": "Community Building Meta"
+  },
+  {
+    "site_url": "http://startups.stackexchange.com",
+    "api_site_parameter": "startups",
+    "name": "Startups"
+  },
+  {
+    "site_url": "http://meta.startups.stackexchange.com",
+    "api_site_parameter": "meta.startups",
+    "name": "Startups Meta"
+  },
+  {
+    "site_url": "http://worldbuilding.stackexchange.com",
+    "api_site_parameter": "worldbuilding",
+    "name": "Worldbuilding"
+  },
+  {
+    "site_url": "http://meta.worldbuilding.stackexchange.com",
+    "api_site_parameter": "meta.worldbuilding",
+    "name": "Worldbuilding Meta"
+  },
+  {
+    "site_url": "http://ja.stackoverflow.com",
+    "api_site_parameter": "ja.stackoverflow",
+    "name": "スタック・オーバーフロー"
+  },
+  {
+    "site_url": "http://meta.ja.stackoverflow.com",
+    "api_site_parameter": "meta.ja.stackoverflow",
+    "name": "スタック・オーバーフローMeta"
+  },
+  {
+    "site_url": "http://emacs.stackexchange.com",
+    "api_site_parameter": "emacs",
+    "name": "Emacs"
+  },
+  {
+    "site_url": "http://meta.emacs.stackexchange.com",
+    "api_site_parameter": "meta.emacs",
+    "name": "Emacs Meta"
+  },
+  {
+    "site_url": "http://hsm.stackexchange.com",
+    "api_site_parameter": "hsm",
+    "name": "History of Science and Mathematics"
+  },
+  {
+    "site_url": "http://meta.hsm.stackexchange.com",
+    "api_site_parameter": "meta.hsm",
+    "name": "History of Science and Mathematics Meta"
+  },
+  {
+    "site_url": "http://economics.stackexchange.com",
+    "api_site_parameter": "economics",
+    "name": "Economics"
+  },
+  {
+    "site_url": "http://meta.economics.stackexchange.com",
+    "api_site_parameter": "meta.economics",
+    "name": "Economics Meta"
+  },
+  {
+    "site_url": "http://lifehacks.stackexchange.com",
+    "api_site_parameter": "lifehacks",
+    "name": "Lifehacks"
+  },
+  {
+    "site_url": "http://meta.lifehacks.stackexchange.com",
+    "api_site_parameter": "meta.lifehacks",
+    "name": "Lifehacks Meta"
+  },
+  {
+    "site_url": "http://engineering.stackexchange.com",
+    "api_site_parameter": "engineering",
+    "name": "Engineering"
+  },
+  {
+    "site_url": "http://meta.engineering.stackexchange.com",
+    "api_site_parameter": "meta.engineering",
+    "name": "Engineering Meta"
+  },
+  {
+    "site_url": "http://coffee.stackexchange.com",
+    "api_site_parameter": "coffee",
+    "name": "Coffee"
+  },
+  {
+    "site_url": "http://meta.coffee.stackexchange.com",
+    "api_site_parameter": "meta.coffee",
+    "name": "Coffee Meta"
+  },
+  {
+    "site_url": "http://vi.stackexchange.com",
+    "api_site_parameter": "vi",
+    "name": "Vi and Vim"
+  },
+  {
+    "site_url": "http://meta.vi.stackexchange.com",
+    "api_site_parameter": "meta.vi",
+    "name": "Vi and Vim Meta"
+  },
+  {
+    "site_url": "http://musicfans.stackexchange.com",
+    "api_site_parameter": "musicfans",
+    "name": "Music Fans"
+  },
+  {
+    "site_url": "http://meta.musicfans.stackexchange.com",
+    "api_site_parameter": "meta.musicfans",
+    "name": "Music Fans Meta"
+  },
+  {
+    "site_url": "http://woodworking.stackexchange.com",
+    "api_site_parameter": "woodworking",
+    "name": "Woodworking"
+  },
+  {
+    "site_url": "http://meta.woodworking.stackexchange.com",
+    "api_site_parameter": "meta.woodworking",
+    "name": "Woodworking Meta"
+  },
+  {
+    "site_url": "http://civicrm.stackexchange.com",
+    "api_site_parameter": "civicrm",
+    "name": "CiviCRM"
+  },
+  {
+    "site_url": "http://meta.civicrm.stackexchange.com",
+    "api_site_parameter": "meta.civicrm",
+    "name": "CiviCRM Meta"
+  },
+  {
+    "site_url": "http://health.stackexchange.com",
+    "api_site_parameter": "health",
+    "name": "Health"
+  },
+  {
+    "site_url": "http://meta.health.stackexchange.com",
+    "api_site_parameter": "meta.health",
+    "name": "Health Meta"
+  },
+  {
+    "site_url": "http://ru.stackoverflow.com",
+    "api_site_parameter": "ru.stackoverflow",
+    "name": "Stack Overflow на русском"
+  },
+  {
+    "site_url": "http://meta.ru.stackoverflow.com",
+    "api_site_parameter": "meta.ru.stackoverflow",
+    "name": "Stack Overflow на русском Meta"
+  },
+  {
+    "site_url": "http://rus.stackexchange.com",
+    "api_site_parameter": "rus",
+    "name": "Русский язык"
+  },
+  {
+    "site_url": "http://meta.rus.stackexchange.com",
+    "api_site_parameter": "meta.rus",
+    "name": "Русский язык Meta"
+  },
+  {
+    "site_url": "http://mythology.stackexchange.com",
+    "api_site_parameter": "mythology",
+    "name": "Mythology"
+  },
+  {
+    "site_url": "http://meta.mythology.stackexchange.com",
+    "api_site_parameter": "meta.mythology",
+    "name": "Mythology Meta"
+  },
+  {
+    "site_url": "http://law.stackexchange.com",
+    "api_site_parameter": "law",
+    "name": "Law"
+  },
+  {
+    "site_url": "http://meta.law.stackexchange.com",
+    "api_site_parameter": "meta.law",
+    "name": "Law Meta"
+  },
+  {
+    "site_url": "http://opensource.stackexchange.com",
+    "api_site_parameter": "opensource",
+    "name": "Open Source"
+  },
+  {
+    "site_url": "http://meta.opensource.stackexchange.com",
+    "api_site_parameter": "meta.opensource",
+    "name": "Open Source Meta"
+  },
+  {
+    "site_url": "http://elementaryos.stackexchange.com",
+    "api_site_parameter": "elementaryos",
+    "name": "elementary OS"
+  },
+  {
+    "site_url": "http://meta.elementaryos.stackexchange.com",
+    "api_site_parameter": "meta.elementaryos",
+    "name": "elementary OS Meta"
+  },
+  {
+    "site_url": "http://portuguese.stackexchange.com",
+    "api_site_parameter": "portuguese",
+    "name": "Portuguese Language"
+  },
+  {
+    "site_url": "http://meta.portuguese.stackexchange.com",
+    "api_site_parameter": "meta.portuguese",
+    "name": "Portuguese Language Meta"
+  },
+  {
+    "site_url": "http://computergraphics.stackexchange.com",
+    "api_site_parameter": "computergraphics",
+    "name": "Computer Graphics"
+  },
+  {
+    "site_url": "http://meta.computergraphics.stackexchange.com",
+    "api_site_parameter": "meta.computergraphics",
+    "name": "Computer Graphics Meta"
+  },
+  {
+    "site_url": "http://hardwarerecs.stackexchange.com",
+    "api_site_parameter": "hardwarerecs",
+    "name": "Hardware Recommendations"
+  },
+  {
+    "site_url": "http://meta.hardwarerecs.stackexchange.com",
+    "api_site_parameter": "meta.hardwarerecs",
+    "name": "Hardware Recommendations Meta"
+  },
+  {
+    "site_url": "http://es.stackoverflow.com",
+    "api_site_parameter": "es.stackoverflow",
+    "name": "Stack Overflow en espa&#241;ol"
+  },
+  {
+    "site_url": "http://meta.es.stackoverflow.com",
+    "api_site_parameter": "meta.es.stackoverflow",
+    "name": "Stack Overflow Meta en espa&#241;ol"
+  },
+  {
+    "site_url": "http://docs-beta.stackexchange.com",
+    "api_site_parameter": "docs-beta",
+    "name": "Documentation Beta"
+  }
+]
